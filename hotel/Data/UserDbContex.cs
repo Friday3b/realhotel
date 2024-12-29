@@ -11,7 +11,7 @@ using hotelData.Data;
 
 public class UserDbContex :DbContext
 {
-    //ffhg
+    //ffhgfjgjgjh
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
     {
