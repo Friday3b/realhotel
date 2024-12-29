@@ -4874,11 +4874,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Taleh\\Desktop\\hotelroom-github\\hotelroom2\\hotelApp\\hotelApp.csproj",
+      "projectUniqueName": "C:\\Users\\Taleh\\Source\\Repos\\realhotel\\hotelApp\\hotelApp.csproj",
       "projectName": "hotelApp",
-      "projectPath": "C:\\Users\\Taleh\\Desktop\\hotelroom-github\\hotelroom2\\hotelApp\\hotelApp.csproj",
+      "projectPath": "C:\\Users\\Taleh\\Source\\Repos\\realhotel\\hotelApp\\hotelApp.csproj",
       "packagesPath": "C:\\Users\\Taleh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Taleh\\Desktop\\hotelroom-github\\hotelroom2\\hotelApp\\obj\\",
+      "outputPath": "C:\\Users\\Taleh\\Source\\Repos\\realhotel\\hotelApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Taleh\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4896,8 +4896,8 @@
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "projectReferences": {
-            "C:\\Users\\Taleh\\Desktop\\hotelroom-github\\hotelroom2\\hotel\\hotelData.csproj": {
-              "projectPath": "C:\\Users\\Taleh\\Desktop\\hotelroom-github\\hotelroom2\\hotel\\hotelData.csproj"
+            "C:\\Users\\Taleh\\Source\\Repos\\realhotel\\hotel\\hotelData.csproj": {
+              "projectPath": "C:\\Users\\Taleh\\Source\\Repos\\realhotel\\hotel\\hotelData.csproj"
             }
           }
         }
